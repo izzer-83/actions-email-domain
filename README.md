@@ -7,5 +7,5 @@
 ```yaml
 uses: higebu/actions-email-domain@v1
 with:
-  domains: 'foo.com,bar.com'
+  domains: 'home-dress.de'
 ```
